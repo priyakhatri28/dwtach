@@ -1,0 +1,15 @@
+*{
+    padding:0;
+    margin:0;
+}
+#digital-watch{
+    background-color:rgb(230, 141, 156);
+    width:55%;
+    margin:auto;
+    padding-top:50px;
+    padding-bottom:64px;
+    font-family:Imapct;
+    font-size:45px;
+    text-align:center;
+    border-radius: 2rem;
+    }
